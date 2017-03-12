@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cardo';
+  src: url('Cardo-Regular.ttf') format('truetype');
+}
+
+body {
+  background-color: #151515;
+  color: #fff;
+  font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+
+  max-width: 40rem;
+}
+
+body > section {
+  padding: 0 .5rem;
+  border: 1px #fff solid;
+}
+
+h1, h2, h3, h4 {
+  font-family: Montserrat;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+img.signature {
+  position: fixed;
+  top: 4rem;
+  right: 1rem;
+
+  z-index: -10;
+}
+
+
