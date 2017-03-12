@@ -1,0 +1,25 @@
+{
+  "name": "protozoa-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prep": "mkdir -p dist && cp index.* dist/",
+    "deploy": "gh-pages -d dist",
+    "publish": "npm run prep && npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protozoa-nz/protozoa-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protozoa-nz/protozoa-site/issues"
+  },
+  "homepage": "https://github.com/protozoa-nz/protozoa-site#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
