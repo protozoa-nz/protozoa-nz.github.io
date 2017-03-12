@@ -10,7 +10,7 @@
 
 body {
   background-color: #151515;
-  color: #fff;
+  color: rgba(255, 255, 255, .9);
   font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 
@@ -19,7 +19,9 @@ body {
 
 body > section {
   padding: 0 .5rem;
+  background: rgba(255, 255, 255, .9);
   border: 1px #fff solid;
+  color: #000;
 }
 
 h1, h2, h3, h4 {
