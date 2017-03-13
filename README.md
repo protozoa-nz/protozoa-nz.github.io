@@ -30,4 +30,5 @@ npm test
 
 ```
 npm run deploy
+git push origin master
 ```
