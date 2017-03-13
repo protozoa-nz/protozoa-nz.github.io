@@ -1,19 +1,41 @@
 {
-  "name": "protozoa-site",
+  "name": "protozoa-nz",
   "version": "1.0.0",
-  "description": "",
+  "description": "it's a real sweet app",
   "main": "index.js",
   "scripts": {
+    "start": "budo . -d --serve bundle.js --live",
+    "build": "browserify . -o bundle.js -g uglifyify",
+    "test": "browserify test/index.js | node | tap-spec",
+    "deploy": "npm run build"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-markdown",
+      "babelify"
+    ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/protozoa-nz/protozoa-site.git"
+    "url": "https://github.com/protozoa-nz/protozoa-nz.github.io"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "pietgeursen",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/protozoa-nz/protozoa-site/issues"
+    "url": "https://github.com/protozoa-nz/protozoa-nz.github.io/issues"
   },
-  "homepage": "https://github.com/protozoa-nz/protozoa-site#readme"
+  "homepage": "https://github.com/protozoa-nz/protozoa-nz.github.io",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "browserify-markdown": "^2.0.1",
+    "budo": "^8.2.0",
+    "gh-pages": "^0.11.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1",
+    "uglifyify": "^3.0.1",
+    "watchify": "^3.7.0"
+  }
 }

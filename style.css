@@ -17,7 +17,7 @@ body {
   max-width: 40rem;
 }
 
-body > section {
+main > section {
   padding: 0 .5rem;
   background: rgba(255, 255, 255, .9);
   border: 1px #fff solid;
