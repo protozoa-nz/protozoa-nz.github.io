@@ -8,13 +8,13 @@
 
 ## Code
 
-We dream [new possibilites](http://www.scuttlebutt.nz) into being in our spare time. This work brings us strength and foresight in how and what we build.
+We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare time. This work brings us strength and foresight in how and what we build.
 
 
 ## Human 
 
 We don't just code - we are also skilled teachers, facilitators, and scrum masters.
-Our experience across domains makes us excellent guides and interpretters.
+Our experience across domains makes us excellent guides and interpreters.
 
 
 ## Process 
