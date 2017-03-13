@@ -1,7 +1,7 @@
 
 # protozoa-nz
 
-it's a real sweet app
+##[Deployed app here](http://protozoa.nz/)
 
 ## how
 
