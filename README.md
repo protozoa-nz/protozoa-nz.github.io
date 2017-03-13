@@ -1,7 +1,6 @@
-
 # protozoa-nz
 
-it's a real sweet app
+##[Deployed app here](http://protozoa.nz/)
 
 ## how
 
@@ -31,4 +30,5 @@ npm test
 
 ```
 npm run deploy
+git push origin master
 ```
