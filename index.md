@@ -8,6 +8,7 @@
 
 </div>
 
+contact@protozoa.nz
 
 
 <section>
@@ -110,6 +111,8 @@ People
 dominic tarr
 piet geursen
 mix irving 
+
+contact@protozoa.nz
 
 </section>
 
