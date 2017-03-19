@@ -17,17 +17,12 @@ contact@protozoa.nz
 
 ### Web Development
 
-We build beautiful applications - from performant client-side interfaces and APIs to cutting edge offline-first solutions.
+We build beautiful applications - from efficient client-side interfaces and APIs.
+We especially like to build applications that still work with there is minimal or no internet.
 
-We guide you through the process of creating successful software. 
+We will guide you through the process of creating successful software.
 Once we understand your business needs, we run iteratively through a cycle of designing, building, and review.
 Delivering working software early means faster adaptation, and ultimately a better fitting solution.
-
-
-### Security Design 
-
-Building systems to be secure from the start is essential.
-We architect and review designs for secure web systems. 
 
 
 ### Training
@@ -42,6 +37,13 @@ We can bring your techinical team up to speed in new technologies, teach your se
 
 Work more effecitivly by understanding your technical team and the processes and technologies they are using.
 We're experts in translating from the technical domain into plain english.
+
+### Security Design 
+
+Building systems to be secure from the start is essential.
+We architect and review designs for secure web systems. 
+
+
 
 </section>
 
@@ -69,8 +71,8 @@ We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare 
 
 ## Human
 
-We love working with people. We don't just code - we are also skilled teachers, facilitators, and scrum masters.
-Our experience across domains makes us excellent guides and interpreters. 
+We love working with people. We don't just code - we are also skilled teachers, facilitators, and project managers.
+Our experience across domains makes us excellent guides and interpreters.
 
 Technology is hard. Communicating clearly and working together to solve problems is harder. We work with you to discover and solve problems in a creative and enjoyable way.
 
@@ -117,4 +119,5 @@ contact@protozoa.nz
 </section>
 
 <img class='signature' src='radiolarians.jpeg' />
+
 
