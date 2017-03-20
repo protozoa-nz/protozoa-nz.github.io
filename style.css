@@ -58,13 +58,13 @@ img.signature {
   z-index: -10;
 }
 
-.projects > p {
+.projects {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.projects > p > a > img {
+.projects > a > img {
   width: 130px;
   height: 130px;
   margin: .2rem .5rem;
