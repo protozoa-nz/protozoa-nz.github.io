@@ -117,12 +117,5 @@ contact@protozoa.nz
 
 </section>
 
-<img class='signature' src='radiolarians.jpeg' />
-
-
-
-
-
-
 
 

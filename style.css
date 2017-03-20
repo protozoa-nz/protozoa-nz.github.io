@@ -9,6 +9,7 @@
 }
 
 body {
+  background: url("radiolarians.jpeg") no-repeat;
   background-color: #151515;
   color: rgba(255, 255, 255, .9);
   font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
