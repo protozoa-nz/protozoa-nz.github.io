@@ -17,31 +17,26 @@ contact@protozoa.nz
 
 ### Web Development
 
-Do you have a great idea for an app or website, and need help bringing it to market?
-We can help! we can create efficient applications that work as websites or mobile apps.
-We specialize in creating experiences that still work "offline first", that is with minimal or no internet.
-We also have skills with security and cryptography, and if you have high security requirements we can meet those.
+Do you have a great idea for an app or website? Do you need extra capacity in your dev team? 
+We can help! We create efficient applications that work as websites or mobile apps.
+Our specialties include "offline first" applications that work with minimal or no internet), and security/cryptography.
 
-We will guide you through the process of creating successful software.
-Or process is to get you working software _you can use_ as fast as possible, and then improve it
-following your feedback.
-This means you are more likely to get the app you need, and better control over the budget.
+We get you working software _you can use_ as fast as possible, and then improve it with feedback.
+This means you'll get the app you need, with better control over the budget.
 
 ### Training
 
 **Technical**
 
-If you have technical staff, who need up-skilling into the latest javascript technologies, we can help.
-We can run on-site trainings for both junior or intermediate developers.
-
-
-We can bring your techinical team up to speed in new technologies, teach your seniors how to support juniors, or help establish agile processes.
+Up-skill your team in the latest javascript technologies.
+We run on-site or remote trainings for developers.
+We can teach your seniors how to support juniors, and help establish agile processes.
 
 **Non-technical**
 
-do you sometimes feel like your developers are speaking another language?
-We're experts in translating from the technical domain into plain english,
-Work more effecitivly by with better communication between your technical and non-technical staff.
+Do you sometimes feel like your developers are speaking another language?
+We're experts at translating from the tech into plain English.
+Work more effectively with better communication among your staff.
 
 
 </section>
@@ -63,22 +58,24 @@ Work more effecitivly by with better communication between your technical and no
 
 <section>
 
-## Code
+## Things we Love
 
-We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare time. This work brings us strength and foresight in how and what we build.
+### Code
+
+We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare time. This work brings us foresight about where the web is going, and keeps us sharp.
 
 
-## Human
+### Humans
 
-We love working with people. We don't just code - we are also skilled teachers, facilitators, and project managers.
+We love working with people. We're not just devs - we are also skilled teachers, facilitators, and project managers.
 Our experience across domains makes us excellent guides and interpreters.
 
 Technology is hard. Communicating clearly and working together to solve problems is harder. We work with you to discover and solve problems in a creative and enjoyable way.
 
 
-## Process 
+### Process 
 
-We work in dynamic open source spaces and iterative projects. If you're new to this space we would love to develop a process which works best for you and your project.
+Working on dynamic open source projects means we put collaboration at the centre, and we're used to creating something out of nothing. Every person and project is unique - we would love to develop a process that works best for you.
 
 
 </section>
@@ -86,7 +83,9 @@ We work in dynamic open source spaces and iterative projects. If you're new to t
 
 <section>
 
-## Projects
+## Our Work
+
+We've worked with clients ranging from bootstrapping startups to large government agencies. Between us, we've tackled all kinds of challenges.
 
 organisations
 - loomio
