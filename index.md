@@ -31,5 +31,9 @@ dominic tarr
 piet geursen
 mix irving 
 
-<img class='signature' src='radiolarians.jpeg' />
+contact@protozoa.nz
+
+</section>
+
+
 
