@@ -17,32 +17,31 @@ contact@protozoa.nz
 
 ### Web Development
 
-We build beautiful applications - from efficient client-side interfaces and APIs.
-We especially like to build applications that still work with there is minimal or no internet.
+Do you have a great idea for an app or website, and need help bringing it to market?
+We can help! we can create efficient applications that work as websites or mobile apps.
+We specialize in creating experiences that still work "offline first", that is with minimal or no internet.
+We also have skills with security and cryptography, and if you have high security requirements we can meet those.
 
 We will guide you through the process of creating successful software.
-Once we understand your business needs, we run iteratively through a cycle of designing, building, and review.
-Delivering working software early means faster adaptation, and ultimately a better fitting solution.
-
+Or process is to get you working software _you can use_ as fast as possible, and then improve it
+following your feedback.
+This means you are more likely to get the app you need, and better control over the budget.
 
 ### Training
 
-We're experienced in delivering tailored curriculum and workshops that meets the needs of diverse groups.
-
 **Technical**
+
+If you have technical staff, who need up-skilling into the latest javascript technologies, we can help.
+We can run on-site trainings for both junior or intermediate developers.
+
 
 We can bring your techinical team up to speed in new technologies, teach your seniors how to support juniors, or help establish agile processes.
 
 **Non-technical**
 
-Work more effecitivly by understanding your technical team and the processes and technologies they are using.
-We're experts in translating from the technical domain into plain english.
-
-### Security Design 
-
-Building systems to be secure from the start is essential.
-We architect and review designs for secure web systems. 
-
+do you sometimes feel like your developers are speaking another language?
+We're experts in translating from the technical domain into plain english,
+Work more effecitivly by with better communication between your technical and non-technical staff.
 
 
 </section>
@@ -119,5 +118,11 @@ contact@protozoa.nz
 </section>
 
 <img class='signature' src='radiolarians.jpeg' />
+
+
+
+
+
+
 
 
