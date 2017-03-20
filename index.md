@@ -19,6 +19,7 @@ contact@protozoa.nz
 
 Do you have a great idea for an app or website? Do you need extra capacity in your dev team? 
 We can help! We create efficient applications that work as websites or mobile apps.
+
 Our specialties include "offline first" applications that work with minimal or no internet), and security/cryptography.
 
 We get you working software _you can use_ as fast as possible, and then improve it with feedback.
@@ -40,20 +41,6 @@ Work more effectively with better communication among your staff.
 
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <section>
@@ -87,30 +74,37 @@ Working on dynamic open source projects means we put collaboration at the centre
 
 We've worked with clients ranging from bootstrapping startups to large government agencies. Between us, we've tackled all kinds of challenges.
 
-organisations
-- loomio
-- eda
-- t4nt
-- ssb
+
+<div class='projects'>
+
+[![](./images/eda.png)](http://www.devacademy.co.nz)
+[![](./images/enspiral.png)](http://www.enspiral.com)
+[![](./images/loomio.png)](http://www.loomio.org)
+[![](./images/spanner_planner.png)](http://www.spannerplanner.com)
+[![](./images/ssb.png)](http://www.scuttlebutt.nz)
+[![](./images/traject.png)](http://www.traject.nz)
+[![](./images/webpunch.png)](http://www.webpunch12.com)
+
+</div>
+
 - lifehack
-
-contracts
-- mbie
+- MBIE
 - vaaka
-- webpunch
-- spanner planner
-
 
 </section>
 
 
+
+
 <section>
 
-People
+## About us
 
-dominic tarr
-piet geursen
-mix irving 
+![](images/dominic.png) | ![](images/mix.png) | ![](images/piet.png)
+---|---|---
+**dominic tarr** | **mix irving** | **piet geursen**
+ - security      | - teacher      | - embedded systems 
+                 | - scrum master | 
 
 contact@protozoa.nz
 

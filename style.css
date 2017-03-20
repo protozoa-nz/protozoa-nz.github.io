@@ -58,4 +58,19 @@ img.signature {
   z-index: -10;
 }
 
+.projects > p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
+.projects > p > a > img {
+  width: 130px;
+  height: 130px;
+  margin: .2rem .5rem;
+}
+
+table img {
+  width: 200px;
+  height: 200px;
+}
