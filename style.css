@@ -70,7 +70,15 @@ img.signature {
   margin: .2rem .5rem;
 }
 
-table img {
+.members img {
   width: 200px;
   height: 200px;
 }
+
+.flexwrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
