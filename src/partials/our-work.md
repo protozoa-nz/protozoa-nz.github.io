@@ -2,7 +2,6 @@
 
 We've worked with clients ranging from bootstrapping startups to large government agencies. Between us, we've tackled all kinds of challenges.
 
-
 <div class='projects'>
 
 [![](./images/eda.png)](http://www.devacademy.co.nz)
@@ -15,7 +14,10 @@ We've worked with clients ranging from bootstrapping startups to large governmen
 
 </div>
 
-- lifehack
-- MBIE
-- vaaka
+<!--
+other jobs we could advertise:
+  - lifehack
+  - MBIE
+  - vaaka
+-->
 

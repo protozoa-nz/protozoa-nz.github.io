@@ -10,6 +10,8 @@
 
 body {
   background: url("radiolarians.jpeg") no-repeat;
+  background-position: right top; /*safe fallback*/
+  background-position: calc(50% + 300px) 0%;
   background-color: #151515;
   color: rgba(255, 255, 255, .9);
   font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -24,7 +26,7 @@ main {
 }
 
 main > section {
-  padding: 0 .5rem;
+  padding: 0 .5rem .5rem .5rem;
   margin-bottom: 2rem;
   background: rgba(255, 255, 255, .9);
   border: 1px #fff solid;
@@ -70,7 +72,32 @@ img.signature {
   margin: .2rem .5rem;
 }
 
-table img {
+section.about-us > .bios {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+section.about-us > .bios > div {
+  flex-basis: 33%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section.about-us > .bios > div > img {
   width: 200px;
   height: 200px;
+
+  margin-bottom: 1rem;
 }
+
+ul {
+  margin-left: -2rem;
+}
+
+section.things-we-love > p> img {
+  width: 100%;
+}
+

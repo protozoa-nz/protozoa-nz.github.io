@@ -4,6 +4,7 @@
 
 We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare time. This work brings us foresight about where the web is going, and keeps us sharp.
 
+![](images/scuttleverse.png)
 
 ### Humans
 
