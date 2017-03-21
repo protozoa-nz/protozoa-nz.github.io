@@ -5,7 +5,7 @@
 Do you have a great idea for an app or website? Do you need extra capacity in your dev team? 
 We can help! We create efficient applications that work as websites or mobile apps.
 
-Our specialties include "offline first" applications that work with minimal or no internet), and security/cryptography.
+Our specialties include "offline first" applications that work with minimal or no internet, and security/cryptography.
 
 We get you working software _you can use_ as fast as possible, and then improve it with feedback.
 This means you'll get the app you need, with better control over the budget.
