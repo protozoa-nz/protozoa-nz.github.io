@@ -3,7 +3,7 @@
 We've worked with clients ranging from bootstrapping startups to large government agencies. Between us, we've tackled all kinds of challenges.
 
 
-<div class='projects'>
+<div class='projects flexwrap'>
 
 [![](./images/eda.png)](http://www.devacademy.co.nz)
 [![](./images/enspiral.png)](http://www.enspiral.com)
