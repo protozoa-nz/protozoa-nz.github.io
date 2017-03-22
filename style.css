@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  max-width: 40rem;
+  max-width: 46rem;
   margin: 0 auto;
   padding-top: 6rem;
   position: relative;
@@ -28,7 +28,7 @@ main {
 main > section {
   padding: 0 .5rem .5rem .5rem;
   margin-bottom: 2rem;
-  background: rgba(255, 255, 255, .9);
+  background: #fff; /* rgba(255, 255, 255, .9); */
   border: 1px #fff solid;
   color: #000;
 }
@@ -89,6 +89,13 @@ section.about-us > .bios > div {
 section.about-us > .bios > div > img {
   width: 200px;
   height: 200px;
+
+  margin-bottom: 1rem;
+}
+
+section.about-us > .bios > div > div.social-links > img {
+  width: 30px;
+  height: 30px;
 
   margin-bottom: 1rem;
 }

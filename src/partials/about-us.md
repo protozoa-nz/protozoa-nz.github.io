@@ -11,6 +11,12 @@
       <li>sailing</li>
     </ul>
 
+    <div class='social-links'>
+      <img src='images/github-logo.png' />
+      <img src='images/blog-icon.png' />
+      <img src='images/twitter-logo.png' />
+    </div>
+
   </div>
 
   <div>
@@ -23,6 +29,12 @@
       <li>i18n</li>
     </ul>
 
+    <div class='social-links'>
+      <img src='images/github-logo.png' />
+      <img src='images/blog-icon.png' />
+      <img src='images/twitter-logo.png' />
+    </div>
+
   </div>
 
   <div>
@@ -33,6 +45,11 @@
       <li>embedded systems</li>
       <li>teacher</li>
     </ul>
+
+    <div class='social-links'>
+      <img src='images/github-logo.png' />
+      <img src='images/twitter-logo.png' />
+    </div>
 
   </div>
 </div>
