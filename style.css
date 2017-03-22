@@ -92,7 +92,19 @@ section.about-us > .bios > div > img {
   margin-bottom: 1rem;
 }
 
-section.about-us > .bios > div > div.social-links > img {
+section.about-us > .bios > div > div.social-links {
+  flex-grow: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 100%;
+}
+
+section.about-us > .bios > div > div.social-links > a  {
+  flex-basis: 18%
+}
+
+section.about-us > .bios > div > div.social-links > a > img {
   width: 30px;
   height: 30px;
 
@@ -103,7 +115,7 @@ ul {
   margin-left: -2rem;
 }
 
-section.things-we-love > p> img {
+section.things-we-love > p > img {
   width: 100%;
 }
 

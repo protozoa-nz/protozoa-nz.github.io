@@ -12,9 +12,9 @@
     </ul>
 
     <div class='social-links'>
-      <img src='images/github-logo.png' />
-      <img src='images/blog-icon.png' />
-      <img src='images/twitter-logo.png' />
+      <a href='https://github.com/dominictarr/'><img src='images/github-logo.png' /></a>
+      <a href='https://twitter.com/dominictarr'><img src='images/twitter-logo.png' /></a>
+      <a href='http://dominictarr.com'><img src='images/blog-icon.png' /></a>
     </div>
 
   </div>
@@ -30,9 +30,9 @@
     </ul>
 
     <div class='social-links'>
-      <img src='images/github-logo.png' />
-      <img src='images/blog-icon.png' />
-      <img src='images/twitter-logo.png' />
+      <a href='https://github.com/mixmix'><img src='images/github-logo.png' /></a>
+      <a href='https://twitter.com/whimful'><img src='images/twitter-logo.png' /></a>
+      <a href='https://medium.com/@whimful'><img src='images/blog-icon.png' /></a>
     </div>
 
   </div>
@@ -47,8 +47,8 @@
     </ul>
 
     <div class='social-links'>
-      <img src='images/github-logo.png' />
-      <img src='images/twitter-logo.png' />
+      <a href='https://github.com/pietgeursen'><img src='images/github-logo.png' /></a>
+      <a href='https://twitter.com/pietgeursen'><img src='images/twitter-logo.png' /></a>
     </div>
 
   </div>
