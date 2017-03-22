@@ -1,11 +1,9 @@
 @font-face {
   font-family: 'Montserrat';
-  src: url('Montserrat-Regular.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: 'Cardo';
-  src: url('Cardo-Regular.ttf') format('truetype');
+  font-family: 'Open Sans';
 }
 
 body {
@@ -36,6 +34,7 @@ main > section {
 h1, h2, h3, h4 {
   font-family: Montserrat;
   margin-bottom: .5rem;
+  font-weight: 500;
 }
 
 h1 {
