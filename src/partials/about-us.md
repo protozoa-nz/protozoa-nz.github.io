@@ -54,5 +54,5 @@
   </div>
 </div>
 
-contact@protozoa.nz
+[contact@protozoa.nz](mailto:contact@protozoa.nz)
 

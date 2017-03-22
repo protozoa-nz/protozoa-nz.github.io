@@ -25,5 +25,4 @@ We're experts at translating from the tech into plain English.
 Work more effectively with better communication among your staff.
 
 
-##### Get in touch : contact@protozoa.nz
-
+##### Get in touch : [contact@protozoa.nz](mailto:contact@protozoa.nz)
