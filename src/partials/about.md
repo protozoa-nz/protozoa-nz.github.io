@@ -4,14 +4,14 @@
 
   <ul>
     <li>security</li>
-    <li>++ open source</li>
+    <li>open source ++</li>
     <li>sailing</li>
   </ul>
 
   <div class='social-links'>
     <a href='https://github.com/dominictarr/'><img src='images/github-logo.png' /></a>
-    <a href='https://twitter.com/dominictarr'><img src='images/twitter-logo.png' /></a>
     <a href='http://dominictarr.com'><img src='images/blog-icon.png' /></a>
+    <a href='https://twitter.com/dominictarr'><img src='images/twitter-logo.png' /></a>
   </div>
 
 </div>
@@ -28,8 +28,8 @@
 
   <div class='social-links'>
     <a href='https://github.com/mixmix'><img src='images/github-logo.png' /></a>
-    <a href='https://twitter.com/whimful'><img src='images/twitter-logo.png' /></a>
     <a href='https://medium.com/@whimful'><img src='images/blog-icon.png' /></a>
+    <a href='https://twitter.com/whimful'><img src='images/twitter-logo.png' /></a>
   </div>
 
 </div>

@@ -11,7 +11,7 @@ body {
   background-position: right top; /*safe fallback*/
   background-position: calc(50% + 300px) 0rem
   background-color: #151515
-  font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
   font-size: 18px
 
   margin: 0
@@ -38,12 +38,18 @@ Header {
   color: rgba(255, 255, 255, .9)
 
   h1 {
-    font-size: 5.5rem
+    font-size: 4.5rem
     font-weight: 600
   }
-  .tagline {
+  div.tagline {
     font-size: 1.3rem
+    margin-left: .4rem;
     margin-bottom: 1rem
+
+    p {
+      margin: .3rem 0
+
+    }
   }
 }
 
@@ -71,23 +77,22 @@ Value {
 $slice {
   background: #fff; /* rgba(255, 255, 255, .9); */
   color: #000
+  padding: 2rem 0 6rem
 
   header {
     $width
 
-    margin-top: 2rem
-    margin-bottom: 3rem
+    font-family: Montserrat
     font-size: 2.5rem
     text-align: center
   }
 
   section {
     $width
-    padding: 1rem 0 4rem
 
     display: flex
     flex-flow: wrap
-    justify-content: space-evenly
+    justify-content: space-around
   }
 }
 
@@ -106,8 +111,9 @@ Love {
         h3 {
           color: white
           font-size: 2.4rem
+          font-weight: 600
+          padding-top: 0.4rem
           padding-left: 10px
-
         }
 
         -code {
@@ -134,10 +140,12 @@ Work {
   color: #fff
 
   section {
+    padding-top: 3rem
+
     div.projects {
       display: flex
       flex-flow: wrap
-      justify-content: space-evenly
+      justify-content: space-around
 
       div.project {
         flex-basis: 25%
@@ -180,9 +188,7 @@ About {
   color: #fff
 
   section {
-    display: flex
-    flex-wrap: wrap
-    justify-content: space-evenly
+    padding-top: 3rem
 
     div {
       flex-basis: 33%
@@ -209,8 +215,7 @@ About {
           flex-basis: 18%
           
           img {
-            width: 24px
-            height: 24px
+            height: 36px
 
             margin-bottom: 1rem
 
@@ -221,23 +226,21 @@ About {
   }
 }
 
-
-
-img.signature {
-  position: absolute
-  top: 2rem
-  right: -9rem
-
-  z-index: -10
-}
-
-section.about-us > .bios {
-}
-
-
 ul {
   margin-left: -2rem
 }
 
+Footer {
+  $slice
 
+  section p { 
+    flex-basis: 100%
+    font-size: 1.4rem
+    text-align: center
+
+    a {
+      font-size: 2rem
+    }
+  }
+}
 
