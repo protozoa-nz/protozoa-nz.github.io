@@ -3,7 +3,7 @@
     <h3>Code</h3>
   </header>
 
-We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare time. This work brings us foresight about where the web is going, and keeps us sharp.
+We dream into being in our spare time - like social networks which don't need the internet (it already exists, [come join us](http://www.scuttlebutt.nz)). Working with new paradigms and interesting constraints brings us foresight about where the web is going, and keeps us sharp.
 
 
 </div>
@@ -13,10 +13,9 @@ We dream [new possibilities](http://www.scuttlebutt.nz) into being in our spare 
     <h3>Humans</h3>
   </header>
 
-We love working with people. We're not just devs - we are also skilled teachers, facilitators, and project managers.
-Our experience across domains makes us excellent guides and interpreters.
-
-Technology is hard. Communicating clearly and working together to solve problems is harder. We work with you to discover and solve problems in a creative and enjoyable way.
+We're not your average devs - we also happen to be skilled teachers, facilitators, and project managers.
+Out multi-domain expertise makes us excellent guides and interpreters.
+We work with clients and their customers to discover and solve problems in a creative and enjoyable way.
 
 </div>
 
