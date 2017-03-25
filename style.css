@@ -6,7 +6,7 @@
 .Value { font-size: 2rem; }
 .Love { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Love > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.Love > header { font-family: Montserrat; font-size: 2.5rem; text-align: center; }
+.Love > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
 .Love > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Love > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Love > section > div { max-width: 290px; }
@@ -17,7 +17,7 @@
 .Love > section > div > header > h3 { color: white; font-size: 2.4rem; font-weight: 600; padding-top: 0.4rem; padding-left: 10px; }
 .Work { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Work > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.Work > header { font-family: Montserrat; font-size: 2.5rem; text-align: center; }
+.Work > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
 .Work > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Work > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Work { background-color: #000; color: #fff; }
@@ -28,14 +28,14 @@
 .Work > section > div.projects > div.project > ul { margin-left: -2rem; }
 .Services { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Services > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.Services > header { font-family: Montserrat; font-size: 2.5rem; text-align: center; }
+.Services > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
 .Services > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Services > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Services > section { display: inherit; }
 .Services > section > h3 { font-size: 2rem; }
 .About { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .About > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.About > header { font-family: Montserrat; font-size: 2.5rem; text-align: center; }
+.About > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
 .About > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .About > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .About { background-color: #000; color: #fff; }
@@ -47,7 +47,7 @@
 .About > section > div > div.social-links > a > img { height: 36px; margin-bottom: 1rem; }
 .Footer { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Footer > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.Footer > header { font-family: Montserrat; font-size: 2.5rem; text-align: center; }
+.Footer > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
 .Footer > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Footer > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Footer > section p { flex-basis: 100%; font-size: 1.4rem; text-align: center; }
