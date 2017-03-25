@@ -1,5 +1,3 @@
-## Services
-
 ### Web Development
 
 Do you have a great idea for an app or website? Do you need extra capacity in your dev team? 
@@ -24,5 +22,3 @@ Do you sometimes feel like your developers are speaking another language?
 We're experts at translating from the tech into plain English.
 Work more effectively with better communication among your staff.
 
-
-##### Get in touch : [contact@protozoa.nz](mailto:contact@protozoa.nz)

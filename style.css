@@ -1,121 +1,51 @@
-@font-face {
-  font-family: 'Montserrat';
-}
-
-@font-face {
-  font-family: 'Open Sans';
-}
-
-body {
-  background: url("radiolarians.jpeg") no-repeat;
-  background-position: right top; /*safe fallback*/
-  background-position: calc(50% + 300px) 0%;
-  background-color: #151515;
-  color: rgba(255, 255, 255, .9);
-  font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-}
-
-main {
-  max-width: 46rem;
-  margin: 0 auto;
-  padding-top: 6rem;
-  position: relative;
-}
-
-main > section {
-  padding: 0 .5rem .5rem .5rem;
-  margin-bottom: 2rem;
-  background: #fff; /* rgba(255, 255, 255, .9); */
-  border: 1px #fff solid;
-  color: #000;
-}
-
-h1, h2, h3, h4 {
-  font-family: Montserrat;
-  margin-bottom: .5rem;
-  font-weight: 500;
-}
-
-h1 {
-  font-size: 3rem;
-  margin-bottom: 0rem;
-}
-
-.tagline {
-  font-size: 1.3rem;
-  margin-bottom: 1rem;
-}
-
-a {
-  color: #000;
-}
-
-img.signature {
-  position: absolute;
-  top: 2rem;
-  right: -9rem;
-
-  z-index: -10;
-}
-
-.projects {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.projects > a > img {
-  width: 130px;
-  height: 130px;
-  margin: .2rem .5rem;
-}
-
-section.about-us > .bios {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-}
-
-section.about-us > .bios > div {
-  flex-basis: 33%;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-section.about-us > .bios > div > img {
-  width: 200px;
-  height: 200px;
-
-  margin-bottom: 1rem;
-}
-
-section.about-us > .bios > div > div.social-links {
-  flex-grow: 1;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-  width: 100%;
-}
-
-section.about-us > .bios > div > div.social-links > a  {
-  flex-basis: 18%
-}
-
-section.about-us > .bios > div > div.social-links > a > img {
-  width: 24px;
-  height: 24px;
-
-  margin-bottom: 1rem;
-}
-
-ul {
-  margin-left: -2rem;
-}
-
-section.things-we-love > p > img {
-  width: 100%;
-}
-
+.Header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); }
+.Header > h1 { font-size: 5.5rem; font-weight: 600; }
+.Value { font-size: 2rem; }
+.Love { background: #fff; color: #000; }
+.Love > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Love > header { margin-top: 2rem; margin-bottom: 3rem; font-size: 2.5rem; text-align: center; }
+.Love > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Love > section { padding: 1rem 0 4rem; display: flex; flex-flow: wrap; justify-content: space-evenly; }
+.Love > section > div { max-width: 290px; }
+.Love > section > div > header { height: 180px; margin-bottom: 1rem; background-color: #aaa; }
+.Love > section > div > header.-code { background-image: url(images/scuttleverse.png); }
+.Love > section > div > header.-humans { background-image: url(images/humans.png); }
+.Love > section > div > header.-process { background-image: url(images/process.png); }
+.Love > section > div > header > h3 { color: white; font-size: 2.4rem; padding-left: 10px; }
+.Work { background: #fff; color: #000; }
+.Work > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Work > header { margin-top: 2rem; margin-bottom: 3rem; font-size: 2.5rem; text-align: center; }
+.Work > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Work > section { padding: 1rem 0 4rem; display: flex; flex-flow: wrap; justify-content: space-evenly; }
+.Work { background-color: #000; color: #fff; }
+.Work > section > div.projects { display: flex; flex-flow: wrap; justify-content: space-evenly; }
+.Work > section > div.projects > div.project { flex-basis: 25%; min-width: 200px; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; }
+.Work > section > div.projects > div.project > a img { width: 200px; height: 200px; }
+.Work > section > div.projects > div.project > ul { margin-left: -2rem; }
+.Services { background: #fff; color: #000; }
+.Services > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Services > header { margin-top: 2rem; margin-bottom: 3rem; font-size: 2.5rem; text-align: center; }
+.Services > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.Services > section { padding: 1rem 0 4rem; display: flex; flex-flow: wrap; justify-content: space-evenly; }
+.Services > section { display: inherit; }
+.Services > section > h3 { font-size: 2rem; }
+.About { background: #fff; color: #000; }
+.About > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.About > header { margin-top: 2rem; margin-bottom: 3rem; font-size: 2.5rem; text-align: center; }
+.About > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
+.About > section { padding: 1rem 0 4rem; display: flex; flex-flow: wrap; justify-content: space-evenly; }
+.About { background-color: #000; color: #fff; }
+.About > section { display: flex; flex-wrap: wrap; justify-content: space-evenly; }
+.About > section > div { flex-basis: 33%; display: flex; flex-direction: column; align-items: center; }
+.About > section > div > img { width: 200px; height: 200px; margin-bottom: 1rem; }
+.About > section > div > div.social-links { flex-grow: 1; display: flex; align-items: flex-end; justify-content: center; width: 100%; }
+.About > section > div > div.social-links > a { flex-basis: 18%; }
+.About > section > div > div.social-links > a > img { width: 24px; height: 24px; margin-bottom: 1rem; }
+body { background: url("radiolarians.jpeg") no-repeat; background-position: calc(50% + 300px) 0rem; background-color: #151515; font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; margin: 0; }
+h1, h2, h3, h4 { font-family: Montserrat; margin-bottom: .5rem; font-weight: 500; }
+a { color: #000; }
+main { display: flex; flex-direction: column; justify-content: center; }
+img.signature { position: absolute; top: 2rem; right: -9rem; z-index: -10; }
+ul { margin-left: -2rem; }
+@font-face { font-family: 'Open Sans'; }
