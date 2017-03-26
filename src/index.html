@@ -14,15 +14,34 @@
     <link rel="icon" href="favicon.png" />
   </head>
   <body>
-    <link rel="stylesheet" href="style.css">
-    <main>
-      {{title.md}}
+    <header class='Header'>
+      <h1>Protozoa</h1>
       <div class="tagline">{{tagline.md}}</div>
-      <section>{{services.md}}</section>
-      <section>{{our-work.md}}</section>
-      <section class='things-we-love'>{{things-we-love.md}}</section>
-      <section class='about-us'>{{about-us.md}}</section>
+    </header>
+    <main>
+      <div class='Love'>
+        <header>Tech for human-centered systems</header>
+        <section>{{love.md}}</section>
+      </div>
+      <div class='Work'>
+        <header>Our Work</header>
+        <section>{{work.md}}</section>
+      </div>
+      <div class='Services'>
+        <header>Services</header>
+        <section>{{services.md}}</section>
+      </div>
+      <div class='About'>
+        <header>About</header>
+        <section>{{about.md}}</section>
+      </div>
     </main>
+    <footer class='Footer'>
+      <header>Getting in touch</header>
+      <section>{{contact.md}}</section>
+    </footer>
+
+    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat" rel="stylesheet">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -36,5 +55,4 @@
     </script>
   </body>
 </html>
-
 

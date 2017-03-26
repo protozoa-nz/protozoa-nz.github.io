@@ -1,3 +1,3 @@
-web developers, facilitators, crypto-engineers
+We are web developers, facilitators, crypto-engineers,
 
-experts in Node.js & distributed systems
+and experts in Node.js & distributed systems
