@@ -1,7 +1,7 @@
 .Header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); }
 .Header > h1 { font-size: 4.5rem; font-weight: 600; }
-.Header > div.tagline { font-size: 1.3rem; margin-left: .4rem; margin-bottom: 1rem; }
+.Header > div.tagline { font-size: 1rem; margin-left: .4rem; margin-bottom: 1rem; }
 .Header > div.tagline > p { margin: .3rem 0; }
 .Value { font-size: 2rem; }
 .Love { background: #fff; color: #000; padding: 2rem 0 6rem; }
@@ -14,7 +14,7 @@
 .Love > section > div > header.-code { background-image: url(images/scuttleverse.png); }
 .Love > section > div > header.-humans { background-image: url(images/humans.png); }
 .Love > section > div > header.-process { background-image: url(images/process.png); }
-.Love > section > div > header > h3 { color: white; font-size: 2.4rem; font-weight: 600; padding-top: 0.4rem; padding-left: 10px; }
+.Love > section > div > header > h3 { color: white; font-size: 2rem; font-weight: 600; padding-top: 0.4rem; padding-left: 10px; }
 .Work { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Work > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Work > header { font-family: Montserrat; font-size: 2.5rem; font-weight: 600; text-align: center; }
@@ -23,8 +23,8 @@
 .Work { background-color: #000; color: #fff; }
 .Work > section { padding-top: 3rem; }
 .Work > section > div.projects { display: flex; flex-flow: wrap; justify-content: space-around; }
-.Work > section > div.projects > div.project { flex-basis: 25%; min-width: 200px; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; }
-.Work > section > div.projects > div.project > a img { width: 200px; height: 200px; }
+.Work > section > div.projects > div.project { flex-basis: 25%; min-width: 110px; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; }
+.Work > section > div.projects > div.project > a img { width: 100px; height: 100px; }
 .Work > section > div.projects > div.project > ul { margin-left: -2rem; }
 .Services { background: #fff; color: #000; padding: 2rem 0 6rem; }
 .Services > header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
@@ -39,9 +39,9 @@
 .About > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .About > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .About { background-color: #000; color: #fff; }
-.About > section { padding-top: 3rem; }
+.About > section { padding-top: 3rem; justify-content: center; }
 .About > section > div { flex-basis: 33%; display: flex; flex-direction: column; align-items: center; }
-.About > section > div > img { width: 200px; height: 200px; margin-bottom: 1rem; }
+.About > section > div > img { width: 200px; height: 200px; margin: 0rem 0.5rem; margin-bottom: 1rem; }
 .About > section > div > div.social-links { flex-grow: 1; display: flex; align-items: flex-end; justify-content: center; width: 100%; }
 .About > section > div > div.social-links > a { flex-basis: 18%; }
 .About > section > div > div.social-links > a > img { height: 36px; margin-bottom: 1rem; }
@@ -52,7 +52,7 @@
 .Footer > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Footer > section p { flex-basis: 100%; font-size: 1.4rem; text-align: center; }
 .Footer > section p > a { font-size: 2rem; }
-body { background: url("radiolarians.jpeg") no-repeat; background-position: calc(50% + 300px) 0rem; background-color: #151515; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; margin: 0; }
+body { background: url("radiolarians.jpeg") no-repeat; background-position: calc(50% + 300px) 0rem; background-color: #151515; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; margin: 0; }
 h1, h2, h3, h4 { font-family: Montserrat; margin-bottom: .5rem; font-weight: 500; }
 a { color: #000; }
 main { display: flex; flex-direction: column; justify-content: center; }
