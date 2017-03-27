@@ -24,7 +24,7 @@ We work with clients and their customers to discover and solve problems in a cre
     <h3>Process</h3>
   </header>
 
-Working on dynamic open source projects means we put collaboration at the centre, and we're used to creating something out of nothing. Every person and project is unique - we would love to develop a process that works best for you.
+Working in open source means we put collaboration at the centre, and we're used to creating something out of nothing. Every person and project is unique - we would love to develop a process that works best for you.
 
 </div>
 
