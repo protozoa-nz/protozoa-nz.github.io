@@ -1,5 +1,5 @@
 .Header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
-.Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); }
+.Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); text-shadow: 1px 1px 30px black; }
 .Header > h1 { font-size: 4.5rem; font-weight: 600; }
 .Header > div.tagline { font-size: 1.1rem; margin-left: .4rem; margin-bottom: 1rem; }
 .Header > div.tagline > p { margin: .3rem 0; }

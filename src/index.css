@@ -36,6 +36,7 @@ Header {
   margin-top: 4rem
   margin-bottom: 3rem
   color: rgba(255, 255, 255, .9)
+  text-shadow: 1px 1px 30px black
 
   h1 {
     font-size: 4.5rem
