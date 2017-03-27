@@ -1,7 +1,7 @@
 .Header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); }
 .Header > h1 { font-size: 4.5rem; font-weight: 600; }
-.Header > div.tagline { font-size: 1rem; margin-left: .4rem; margin-bottom: 1rem; }
+.Header > div.tagline { font-size: 1.1rem; margin-left: .4rem; margin-bottom: 1rem; }
 .Header > div.tagline > p { margin: .3rem 0; }
 .Value { font-size: 2rem; }
 .Love { background: #fff; color: #000; padding: 2rem 0 6rem; }
@@ -52,7 +52,7 @@
 .Footer > section { display: flex; flex-flow: wrap; justify-content: space-around; }
 .Footer > section p { flex-basis: 100%; font-size: 1.4rem; text-align: center; }
 .Footer > section p > a { font-size: 2rem; }
-body { background: url("radiolarians.jpeg") no-repeat; background-position: calc(50% + 300px) 0rem; background-color: #151515; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; margin: 0; }
+body { background: url("images/radiolarians.jpg") no-repeat; background-position: calc(50% + 300px) -12rem; background-color: #000; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; margin: 0; }
 h1, h2, h3, h4 { font-family: Montserrat; margin-bottom: .5rem; font-weight: 500; }
 a { color: #000; }
 main { display: flex; flex-direction: column; justify-content: center; }

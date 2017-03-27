@@ -7,10 +7,10 @@
 }
 
 body {
-  background: url("radiolarians.jpeg") no-repeat
+  background: url("images/radiolarians.jpg") no-repeat
   background-position: right top; /*safe fallback*/
-  background-position: calc(50% + 300px) 0rem
-  background-color: #151515
+  background-position: calc(50% + 300px) -12rem
+  background-color: #000
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
   font-size: 15px
 
@@ -42,7 +42,7 @@ Header {
     font-weight: 600
   }
   div.tagline {
-    font-size: 1rem
+    font-size: 1.1rem
     margin-left: .4rem;
     margin-bottom: 1rem
 
