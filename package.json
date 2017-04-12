@@ -4,7 +4,7 @@
   "description": "it's a real sweet app",
   "main": "index.js",
   "scripts": {
-    "build:css": "mcss src/index.css -o style.css",
+    "build:css": "mcss src/index.css -o build/style.css && gulp css --gulpfile src/gulpfile.js",
     "build:html": "gulp --gulpfile src/gulpfile.js",
     "build": "npm run build:css && npm run build:html"
   },
@@ -20,8 +20,11 @@
   "homepage": "https://github.com/protozoa-nz/protozoa-nz.github.io",
   "dependencies": {},
   "devDependencies": {
+    "autoprefixer": "^6.7.7",
     "gulp": "^3.9.1",
     "gulp-md-template": "^1.1.2",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sourcemaps": "^2.6.0",
     "micro-css": "^2.0.0"
   }
 }
