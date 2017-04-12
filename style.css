@@ -1,6 +1,6 @@
 .Header { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Header { margin-top: 4rem; margin-bottom: 3rem; color: rgba(255, 255, 255, .9); text-shadow: 1px 1px 30px black; }
-.Header > h1 { font-size: 15vw; font-weight: 600; }
+.Header > h1 { font-size: 15vmin; font-weight: 600; }
 .Header > div.tagline { font-size: 1.1rem; margin-left: .4rem; margin-bottom: 1rem; }
 .Header > div.tagline > p { margin: .3rem 0; }
 .Value { font-size: 2rem; }
@@ -50,7 +50,7 @@
 .Footer > section { max-width: 1000px; padding: 1rem; margin: 0 auto; }
 .Footer > section { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-flow: wrap; flex-flow: wrap; -ms-flex-pack: distribute; justify-content: space-around; }
 .Footer > section p { font-size: 1.4rem; text-align: center; }
-.Footer > section p > a { font-size: 7vw; }
+.Footer > section p > a { font-size: 9vmin; }
 body { background: url("images/radiolarians.jpg") no-repeat; background-position: calc(50% + 300px) -12rem; background-color: #000; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; margin: 0; }
 h1, h2, h3, h4 { font-family: Montserrat; margin-bottom: .5rem; font-weight: 500; }
 a { color: #000; }

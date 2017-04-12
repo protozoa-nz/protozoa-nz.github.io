@@ -40,7 +40,7 @@ Header {
   text-shadow: 1px 1px 30px black
 
   h1 {
-    font-size: 15vw
+    font-size: 15vmin
     font-weight: 600
   }
   div.tagline {
@@ -240,7 +240,7 @@ Footer {
     text-align: center
 
     a {
-      font-size: 7vw
+      font-size: 9vmin
     }
   }
 }
