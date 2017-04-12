@@ -6,3 +6,15 @@ gulp.task('default', function () {
     .pipe(template('./partials'))
     .pipe(gulp.dest('../'));
 });
+
+gulp.task('css', function () {
+  var postcss      = require('gulp-postcss')
+  var sourcemaps   = require('gulp-sourcemaps')
+  var autoprefixer = require('autoprefixer')
+
+  return gulp.src('../build/style.css')
+    .pipe(sourcemaps.init())
+    .pipe(postcss([ autoprefixer() ]))
+    .pipe(sourcemaps.write('.'))
+    .pipe(gulp.dest('..'))
+})
