@@ -14,7 +14,7 @@ We dream into being in our spare time - like social networks which don't need th
   </header>
 
 We're not your average devs - we also happen to be skilled teachers, facilitators, and project managers.
-Out multi-domain expertise makes us excellent guides and interpreters.
+Our multi-domain expertise makes us excellent guides and interpreters.
 We work with clients and their customers to discover and solve problems in a creative and enjoyable way.
 
 </div>

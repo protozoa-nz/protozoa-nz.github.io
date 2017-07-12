@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: 'Montserrat'
 }
@@ -39,7 +40,7 @@ Header {
   text-shadow: 1px 1px 30px black
 
   h1 {
-    font-size: 4.5rem
+    font-size: 15vmin
     font-weight: 600
   }
   div.tagline {
@@ -150,7 +151,6 @@ Work {
       justify-content: space-around
 
       div.project {
-        flex-basis: 25%
         min-width: 110px
         margin-bottom: 2rem
 
@@ -194,7 +194,6 @@ About {
     justify-content: center
 
     div {
-      flex-basis: 33%
 
       display: flex
       flex-direction: column
@@ -216,7 +215,6 @@ About {
         width: 100%
 
         a {
-          flex-basis: 18%
           
           img {
             height: 36px
@@ -238,12 +236,11 @@ Footer {
   $slice
 
   section p { 
-    flex-basis: 100%
     font-size: 1.4rem
     text-align: center
 
     a {
-      font-size: 2rem
+      font-size: 9vmin
     }
   }
 }
