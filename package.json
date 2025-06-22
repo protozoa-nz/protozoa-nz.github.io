@@ -4,9 +4,11 @@
   "description": "it's a real sweet app",
   "main": "index.js",
   "scripts": {
+    "start": "npm run build && serve .",
+    "build": "npm run build:clean && npm run build:css && npm run build:html",
+    "build:clean": "rm -rf build && mkdir build",
     "build:css": "mcss src/index.css -o build/style.css && gulp css --gulpfile src/gulpfile.js",
-    "build:html": "gulp --gulpfile src/gulpfile.js",
-    "build": "npm run build:css && npm run build:html"
+    "build:html": "gulp --gulpfile src/gulpfile.js"
   },
   "repository": {
     "type": "git",
@@ -18,13 +20,16 @@
     "url": "https://github.com/protozoa-nz/protozoa-nz.github.io/issues"
   },
   "homepage": "https://github.com/protozoa-nz/protozoa-nz.github.io",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "gulp": "^3.9.1",
     "gulp-md-template": "^1.1.2",
     "gulp-postcss": "^6.4.0",
     "gulp-sourcemaps": "^2.6.0",
-    "micro-css": "^2.0.0"
+    "micro-css": "^2.0.0",
+    "serve": "^11.3.2"
+  },
+  "engines": {
+    "node": "8"
   }
 }

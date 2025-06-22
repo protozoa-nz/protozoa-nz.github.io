@@ -7,8 +7,9 @@
 ### install
 
 ```
-git clone https://github.com/pietgeursen/protozoa-nz
+git clone https://github.com/protozoa-nz/protozoa-nz.github.io
 cd 
+nvm install 8   # uses Node version 8!
 npm install
 ```
 
